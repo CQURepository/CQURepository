@@ -5,4 +5,4 @@ As organizations cannot host [GitHub Gists](https://docs.github.com/en), we can 
 ## Contents
 
 - [GitHub Badges](github-badges.md)
- 
+- [Common Spring Boot Properties](application_properties.md)
